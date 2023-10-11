@@ -1,0 +1,6 @@
+1.open users.sql in notepad
+2.copy the content.
+3.go to php my admin and database
+4.click empty to clear the data in the table.
+5.go to sql and paste it and click go
+6.it will give the output data imported
