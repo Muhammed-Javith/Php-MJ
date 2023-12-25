@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6513fee1ff95be02fcd9c8d3"
+  },
+  "name": "John",
+  "age": 25,
+  "gender": "M"
+},
+{
+  "_id": {
+    "$oid": "6513fee1ff95be02fcd9c8d4"
+  },
+  "name": "Mary",
+  "age": 24,
+  "gender": "F"
+},
+{
+  "_id": {
+    "$oid": "6513fee1ff95be02fcd9c8d5"
+  },
+  "name": "Casper",
+  "age": 23,
+  "gender": "M"
+},
+{
+  "_id": {
+    "$oid": "6513fee1ff95be02fcd9c8d6"
+  },
+  "name": "Steve",
+  "age": 28,
+  "gender": "M"
+},
+{
+  "_id": {
+    "$oid": "6513fee2ff95be02fcd9c8d7"
+  },
+  "name": "Jeni",
+  "age": 25,
+  "gender": "F"
+}]
